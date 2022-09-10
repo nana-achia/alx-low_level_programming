@@ -7,7 +7,6 @@
 
 
 /**
- *
  * main - Prints a-z to standard output
  *
  * Return: Exit status is zero means success
@@ -30,5 +29,4 @@ int main(void)
 	putchar('\n');
 
 	return (0);
-
 }

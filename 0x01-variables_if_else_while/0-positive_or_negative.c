@@ -7,7 +7,6 @@
 
 
 /**
- *
  *main - Prints to the standard error
  *
  *Return: Always 0 (Success)

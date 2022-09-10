@@ -7,7 +7,6 @@
 
 
 /**
- *
  * main - Prints all decimal numbers
  *
  * Return: Exit status is zero means success
@@ -22,5 +21,4 @@ int main(void)
 		printf("%d", i);
 	printf("\n");
 	return (0);
-
 }

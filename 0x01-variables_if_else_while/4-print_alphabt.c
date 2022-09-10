@@ -7,7 +7,6 @@
 
 
 /**
- *
  * main - Selectively prints alphabets to the screen
  *
  * Return: Exit status is zero means success
@@ -26,5 +25,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
 }

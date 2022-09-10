@@ -7,7 +7,6 @@
 
 
 /**
- *
  * main - Prints all decimal digits
  *
  * without using printf
@@ -27,5 +26,4 @@ int main(void)
 	putchar('\n');
 	
 	return (0);
-
 }
